@@ -8,8 +8,8 @@ There is a script that generates an artifact version.txt which is ephemeral and 
 
 ## Running
 1. `make gen`
-</br>
+
 2. `make run`
 
 ## Running tests
-`make test`
+1. `make test`
